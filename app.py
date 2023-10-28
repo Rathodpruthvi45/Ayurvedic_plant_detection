@@ -4,8 +4,8 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from tkinter import Image
 import numpy as np
-# from PIL import Image
-from tkinter import Image
+from PIL import Image
+
 from flask import Flask, request, jsonify
 import matplotlib.pyplot as plt
 
