@@ -3,4 +3,4 @@ Pillow==8.3.2
 tensorflow==2.9.1
 numpy==1.21.2
 matplotlib==3.4.3
-tkinter==8.6.12
+tkinter==8.5
